@@ -4,3 +4,5 @@
 
 [node name="PlayerData" type="Node"]
 script = ExtResource( 1 )
+
+[node name="coloect_coin" type="AudioStreamPlayer2D" parent="."]
